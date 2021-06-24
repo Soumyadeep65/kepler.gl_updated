@@ -56,7 +56,7 @@ const LogoSvg = () => (
   <svg className="side-panel-logo__logo" width="22px" height="15px" viewBox="0 0 22 15">
     <g transform="translate(11, -3) rotate(45.000000)">
       <rect fill="#535C6E" x="5" y="5" width="10" height="10" />
-      <rect fill="#FF0000" x="5" y="10" width="10" height="10" />
+      <rect fill="#FF0000" x="5" y="11" width="10" height="10" />
     </g>
   </svg>
 );
